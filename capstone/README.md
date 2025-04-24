@@ -6,7 +6,7 @@ Welcome to my portfolio repository for the **Google Data Analytics Professional 
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [About the Course](#about-the-course)  
 - [Projects](#projects)  
@@ -21,7 +21,7 @@ Welcome to my portfolio repository for the **Google Data Analytics Professional 
 
 ---
 
-## 📘 About the Course
+## About the Course
 
 The **Google Data Analytics Professional Certificate** is an eight-course program that equips learners with essential data analytics skills. Topics include:
 
@@ -33,7 +33,7 @@ This repository documents my progress and includes code and reports for capstone
 
 ---
 
-## 🧪 Projects
+## Projects
 
 This repository contains:
 
@@ -45,7 +45,7 @@ Each project folder includes a README with a summary, data sources, methodology,
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To explore or reproduce analyses:
 
@@ -67,7 +67,7 @@ git clone https://github.com/desmond-vicnent/google-data-analytics.git
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 Datasets are publicly available from:
 
@@ -79,7 +79,7 @@ Each project folder includes dataset links and licensing details.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 google-data-analytics/
@@ -103,7 +103,7 @@ google-data-analytics/
 
 ---
 
-## 📈 Results & Visualizations
+## Results & Visualizations
 
 Projects include:
 
@@ -126,7 +126,7 @@ Key results are presented in each project’s README.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google** and **Coursera** for the course content  
 - **Kaggle**, **UCI**, and other data providers  
@@ -134,14 +134,14 @@ Key results are presented in each project’s README.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **D. Vincent**  
 
